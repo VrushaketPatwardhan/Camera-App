@@ -1,6 +1,6 @@
 # mycamera
 
-A new Flutter project.
+Flutter App to Click Photo using Phone's Camera ,and store it in Gallery.
 
 ## Getting Started
 
